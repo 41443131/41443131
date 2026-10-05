@@ -410,7 +410,7 @@ g++ -std=c++17 -o powerset powerset.cpp
 
 ---
 
-# 申論及開發報告
+## 申論及開發報告
 
 ## 選擇遞迴的原因
 
